@@ -5,6 +5,7 @@
 
 // I AM NOT DONE
 
+#[macro_use]
 fn main() {
     my_macro!();
 }
